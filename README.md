@@ -1,4 +1,4 @@
-# checkout-cart
+# checkout-cart 👙
 
 
 The purpose of this application is to display a simple checkout cart
